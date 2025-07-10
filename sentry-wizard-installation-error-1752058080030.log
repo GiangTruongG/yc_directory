@@ -1,0 +1,4 @@
+npm WARN using --force Recommended protections disabled.
+npm ERR! Unable to resolve reference $react
+
+npm ERR! A complete log of this run can be found in: /Users/buitruonggiang/.npm/_logs/2025-07-09T10_47_58_917Z-debug-0.log

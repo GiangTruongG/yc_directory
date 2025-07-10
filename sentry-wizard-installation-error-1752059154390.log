@@ -1,0 +1,44 @@
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve
+npm ERR! 
+npm ERR! While resolving: next-sanity@9.8.58-canary.0
+npm ERR! Found: @sanity/client@7.6.0
+npm ERR! node_modules/@sanity/client
+npm ERR!   @sanity/client@"^7.6.0" from @sanity/cli@3.96.0
+npm ERR!   node_modules/@sanity/cli
+npm ERR!     @sanity/cli@"3.96.0" from sanity@3.96.0
+npm ERR!     node_modules/sanity
+npm ERR!       peer sanity@"^3.75.0" from next-sanity@9.8.58-canary.0
+npm ERR!       node_modules/next-sanity
+npm ERR!         next-sanity@"^9.8.58-canary.0" from the root project
+npm ERR!       2 more (sanity-plugin-markdown, the root project)
+npm ERR!   @sanity/client@"^7.6.0" from @sanity/migrate@3.96.0
+npm ERR!   node_modules/@sanity/migrate
+npm ERR!     @sanity/migrate@"3.96.0" from sanity@3.96.0
+npm ERR!     node_modules/sanity
+npm ERR!       peer sanity@"^3.75.0" from next-sanity@9.8.58-canary.0
+npm ERR!       node_modules/next-sanity
+npm ERR!         next-sanity@"^9.8.58-canary.0" from the root project
+npm ERR!       2 more (sanity-plugin-markdown, the root project)
+npm ERR!   7 more (@sanity/presentation-comlink, ...)
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peer @sanity/client@"^6.28.0" from next-sanity@9.8.58-canary.0
+npm ERR! node_modules/next-sanity
+npm ERR!   next-sanity@"^9.8.58-canary.0" from the root project
+npm ERR! 
+npm ERR! Conflicting peer dependency: @sanity/client@6.29.1
+npm ERR! node_modules/@sanity/client
+npm ERR!   peer @sanity/client@"^6.28.0" from next-sanity@9.8.58-canary.0
+npm ERR!   node_modules/next-sanity
+npm ERR!     next-sanity@"^9.8.58-canary.0" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! 
+npm ERR! For a full report see:
+npm ERR! /Users/buitruonggiang/.npm/_logs/2025-07-09T11_05_51_499Z-eresolve-report.txt
+
+npm ERR! A complete log of this run can be found in: /Users/buitruonggiang/.npm/_logs/2025-07-09T11_05_51_499Z-debug-0.log
